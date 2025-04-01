@@ -33,6 +33,7 @@ This project is a simple binary image classification model that distinguishes be
 
 ## 🔗 Related Links
 
-- [Blog Post (Korean,Japanese)]([https://너의블로그주소](https://ameblo.jp/ko-moku/entry-12892201656.html))
+- [Blog Post (Korean,Japanese)]
+(https://ameblo.jp/ko-moku/entry-12892201656.html)
 
 ---
